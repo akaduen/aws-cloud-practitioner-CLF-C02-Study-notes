@@ -1,7 +1,5 @@
 # AWS Cloud Practitioner (CLF-C02) - Technology & Services
 
-Study guide for the AWS Technologies and Offerings domain (33%). Updated as of March 12, 2025.
-
 ---
 
 ## Global Architecture
