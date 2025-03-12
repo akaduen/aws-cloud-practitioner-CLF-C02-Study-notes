@@ -1,7 +1,5 @@
 # AWS Cloud Practitioner (CLF-C02) - Cloud Concepts
 
-Study guide for the Fundamentals of Cloud Computing domain (26%). Updated as of March 12, 2025.
-
 ---
 
 ## Defining Cloud Computing
