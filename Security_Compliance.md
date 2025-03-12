@@ -1,7 +1,5 @@
 # AWS Cloud Practitioner (CLF-C02) - Security & Compliance
 
-Study guide for the Security and Regulatory Standards domain (25%). Updated as of March 12, 2025.
-
 ---
 
 ## Responsibility Division
