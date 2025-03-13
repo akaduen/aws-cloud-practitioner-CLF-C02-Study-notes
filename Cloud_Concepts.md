@@ -24,8 +24,17 @@
 
 ## Service Categories
 - **IaaS (Infrastructure as a Service):** Offers complete resource control (e.g., EC2 for virtual machines).
+  - Provide building blocks for Cloud IT.
+  - Provides networking, computers, data storage space.
+  - Highest level of flexibility.
+  - Easy parallel with traditional on-premises IT.
+
 - **PaaS (Platform as a Service):** Streamlines app development without server oversight (e.g., Elastic Beanstalk).
+  - Removes the need for organization to manage underlying infrastructure.
+  - Focus on deployment and management of your applications.
+ 
 - **SaaS (Software as a Service):** Fully managed software solutions (e.g., Google Workspace).
+  - Completed product that is run and managed by the service provider.
 
 ## Why AWS Stands Out
 - Extensive global network with regions and availability zones for low-latency access.
