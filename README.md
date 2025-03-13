@@ -1,4 +1,4 @@
-## AWS Cloud Practitioner CLF-CO2 study notes
+## AWS Cloud Practitioner CLF-C02 study notes
 
 **Below you can see the notes that I've used to pass on the AWS Cloud Practitioner Exam.**
 
